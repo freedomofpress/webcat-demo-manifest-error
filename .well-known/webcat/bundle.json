@@ -18,7 +18,7 @@
     "version": "0.1",
     "default_csp": "default-src 'none';",
     "files": {
-      "/index.html": "KlTyq0KLBBwP-Mdamo2myEIj3Nu-gXR5CRV8PEW-JLs"
+      "/index.html": "AlTyq0KLBBwP-Mdamo2myEIj3Nu-gXR5CRV8PEW-JLs"
     },
     "default_index": "index.html",
     "default_fallback": "/index.html",
